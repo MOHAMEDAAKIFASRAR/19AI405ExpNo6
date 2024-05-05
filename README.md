@@ -1,4 +1,4 @@
-<h1>ExpNo 5 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
+<h1>ExpNo 6: Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
 <h3>Date:10-04-2024
 <h3>Name: Mohamed Aakif Asrar S</h3>
 <h3>Register Number:212223240088</h3>
